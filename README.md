@@ -1,17 +1,37 @@
-# expense_tracker
+# 💰 Smart Expense Tracker App
 
-A new Flutter project.
+A Flutter-based Expense Tracker app developed as part of my **Flutter Internship Task 1**.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🔐 Firebase Authentication (Login / Signup)
+- 💰 Add Income & Expenses
+- ✏️ Edit & Delete Transactions
+- 🎯 Budget Management
+- 📊 Analytics (Pie Chart, Bar Chart, Line Chart)
+- 🔎 Search & Filter Transactions
+- 🌙 Dark / Light Mode Support
+- 📱 Offline Support
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter (Dart)
+- Firebase (Auth + Firestore)
+- FL Chart
+- Provider
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Project Info
+
+This project helped me learn:
+- CRUD operations
+- Firebase integration
+- Data visualization
+- State management
+
+## 👩‍💻 Internship Task
+
+✔ Task 1 Completed Successfully
+
+---
+
+⭐ If you like this project, give it a star!
